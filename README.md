@@ -1,5 +1,5 @@
 # Book Club  :books:
-:dart: The book club web application will follow the MVC framework. I am going to be using C#, SQL, JavaScript, CSS, HTML, and React. 
+:dart: The book club web application will follow the ASP.NET Core Web Api framework. I am going to be using C#, SQL, JavaScript, CSS, HTML, and React. 
 
 :bar_chart: The application is going to display the books in a table based on their average rating.  
 
